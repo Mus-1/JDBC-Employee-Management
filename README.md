@@ -18,7 +18,7 @@ This application simulates basic employee record operations such as adding, upda
 |------|--------------|
 | **StaffSimulator.java** | Defines staff attributes and simulation logic. |
 | **Sem2_Assignment4_tester.java** | Main class that executes and tests database operations. |
-| **MyOracleInfo.java** | Contains JDBC connection details *(make sure to remove or mask credentials before uploading).* |
+| **MyOracleInfo.java** | Contains JDBC connection details  |
 
 ---
 
