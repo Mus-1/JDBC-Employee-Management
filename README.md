@@ -1,4 +1,4 @@
-# 🧑‍💼 JDBC Employee Management
+# 📂 JDBC Employee Management
 
 A Java project that demonstrates **Oracle JDBC connectivity** and **object-oriented programming (OOP)** concepts to manage employee data.  
 This application simulates basic employee record operations such as adding, updating, retrieving, and deleting staff information from a database.
