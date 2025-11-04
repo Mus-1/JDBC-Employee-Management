@@ -35,16 +35,20 @@ This application simulates basic employee record operations such as adding, upda
    ```bash
    git clone https://github.com/Mus-1/JDBC-Employee-Management.git
    cd JDBC-Employee-Management
-Compile the Java files:
 
-bash
-Copy code
+   
+2. Compile the Java files:
+
+```bash
 javac *.java
-Run the main class:
 
-bash
-Copy code
+
+3. Run the main class:
+
+```bash
 java Sem2_Assignment4_tester
+
+
 Ensure you have:
 
 Oracle JDBC driver in your classpath
